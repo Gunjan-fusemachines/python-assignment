@@ -13,7 +13,7 @@ def search_log(log_file, search_keyword):
         print("Error:", str(e))
 
 # Sample log file name
-log_filename = "sample.log"
+log_filename = "file_i_o/sample.log"
 
 # Sample search keyword
 keyword_to_search = "error"

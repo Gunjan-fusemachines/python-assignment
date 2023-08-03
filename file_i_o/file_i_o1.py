@@ -23,6 +23,6 @@ def filter_adults(input_file, output_file):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-input_file = "data.csv"
+input_file = "file_i_o\data.csv"
 output_file = "adults.csv"
 filter_adults(input_file, output_file)

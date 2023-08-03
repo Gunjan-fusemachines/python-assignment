@@ -41,7 +41,7 @@ new_data = {
 }
 
 # Name of the JSON file
-json_filename = "data.json"
+json_filename = "file_i_o/data.json"
 
 # Write the sample JSON data to the file
 with open(json_filename, 'w') as file:
